@@ -1,23 +1,23 @@
 /*!
- * Bootstrap v5.1.3 (https://getbootstrap.com/)
+ * Bootstrap v5.x.x (https://getbootstrap.com/)
  * Copyright 2011-2022 The Bootstrap Authors
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  *
- * Bootstrap-Colors v1.1.3 (https://vinorodrigues.github.io/bootstrap-dark-5/)
+ * Bootstrap-Colors (https://vinorodrigues.github.io/bootstrap-dark-5/)
  * Copyright 2020-2022 Vino Rodrigues
  * An add-on to bring out the theme colors as CSS variables
  */
 :root {
-  --bs-blue-100: #cfe2ff;
-  --bs-blue-200: #9ec5fe;
-  --bs-blue-300: #6ea8fe;
-  --bs-blue-400: #3d8bfd;
-  --bs-blue-500: #0d6efd;
-  --bs-blue-600: #0a58ca;
-  --bs-blue-700: #084298;
-  --bs-blue-800: #052c65;
-  --bs-blue-900: #031633;
+  --bs-blue-100: #eaf7ff;
+  --bs-blue-200: #d5eeff;
+  --bs-blue-300: #c1e6fe;
+  --bs-blue-400: #acddfe;
+  --bs-blue-500: #97D5FE;
+  --bs-blue-600: #79aacb;
+  --bs-blue-700: #5b8098;
+  --bs-blue-800: #3c5566;
+  --bs-blue-900: #1e2b33;
   --bs-indigo-100: #e0cffc;
   --bs-indigo-200: #c29ffa;
   --bs-indigo-300: #a370f7;
@@ -72,15 +72,15 @@
   --bs-yellow-700: #997404;
   --bs-yellow-800: #664d03;
   --bs-yellow-900: #332701;
-  --bs-green-100: #d1e7dd;
-  --bs-green-200: #a3cfbb;
-  --bs-green-300: #75b798;
-  --bs-green-400: #479f76;
-  --bs-green-500: #198754;
-  --bs-green-600: #146c43;
-  --bs-green-700: #0f5132;
-  --bs-green-800: #0a3622;
-  --bs-green-900: #051b11;
+  --bs-green-100: #eaf9f3;
+  --bs-green-200: #d5f4e7;
+  --bs-green-300: #c1eeda;
+  --bs-green-400: #ace9ce;
+  --bs-green-500: #97E3C2;
+  --bs-green-600: #79b69b;
+  --bs-green-700: #5b8874;
+  --bs-green-800: #3c5b4e;
+  --bs-green-900: #1e2d27;
   --bs-teal-100: #d2f4ea;
   --bs-teal-200: #a6e9d5;
   --bs-teal-300: #79dfc1;
@@ -99,15 +99,15 @@
   --bs-cyan-700: #087990;
   --bs-cyan-800: #055160;
   --bs-cyan-900: #032830;
-  --bs-blue-100-rgb: 207, 226, 255;
-  --bs-blue-200-rgb: 158, 197, 254;
-  --bs-blue-300-rgb: 110, 168, 254;
-  --bs-blue-400-rgb: 61, 139, 253;
-  --bs-blue-500-rgb: 13, 110, 253;
-  --bs-blue-600-rgb: 10, 88, 202;
-  --bs-blue-700-rgb: 8, 66, 152;
-  --bs-blue-800-rgb: 5, 44, 101;
-  --bs-blue-900-rgb: 3, 22, 51;
+  --bs-blue-100-rgb: 234, 247, 255;
+  --bs-blue-200-rgb: 213, 238, 255;
+  --bs-blue-300-rgb: 193, 230, 254;
+  --bs-blue-400-rgb: 172, 221, 254;
+  --bs-blue-500-rgb: 151, 213, 254;
+  --bs-blue-600-rgb: 121, 170, 203;
+  --bs-blue-700-rgb: 91, 128, 152;
+  --bs-blue-800-rgb: 60, 85, 102;
+  --bs-blue-900-rgb: 30, 43, 51;
   --bs-indigo-100-rgb: 224, 207, 252;
   --bs-indigo-200-rgb: 194, 159, 250;
   --bs-indigo-300-rgb: 163, 112, 247;
@@ -162,15 +162,15 @@
   --bs-yellow-700-rgb: 153, 116, 4;
   --bs-yellow-800-rgb: 102, 77, 3;
   --bs-yellow-900-rgb: 51, 39, 1;
-  --bs-green-100-rgb: 209, 231, 221;
-  --bs-green-200-rgb: 163, 207, 187;
-  --bs-green-300-rgb: 117, 183, 152;
-  --bs-green-400-rgb: 71, 159, 118;
-  --bs-green-500-rgb: 25, 135, 84;
-  --bs-green-600-rgb: 20, 108, 67;
-  --bs-green-700-rgb: 15, 81, 50;
-  --bs-green-800-rgb: 10, 54, 34;
-  --bs-green-900-rgb: 5, 27, 17;
+  --bs-green-100-rgb: 234, 249, 243;
+  --bs-green-200-rgb: 213, 244, 231;
+  --bs-green-300-rgb: 193, 238, 218;
+  --bs-green-400-rgb: 172, 233, 206;
+  --bs-green-500-rgb: 151, 227, 194;
+  --bs-green-600-rgb: 121, 182, 155;
+  --bs-green-700-rgb: 91, 136, 116;
+  --bs-green-800-rgb: 60, 91, 78;
+  --bs-green-900-rgb: 30, 45, 39;
   --bs-teal-100-rgb: 210, 244, 234;
   --bs-teal-200-rgb: 166, 233, 213;
   --bs-teal-300-rgb: 121, 223, 193;
